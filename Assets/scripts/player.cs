@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 public class player : MonoBehaviour
 {
 
-    [SerializeField]private string Nombre = "NONE";
+    public string Nombre = "NONE";
     [SerializeField] private int Vida = 100;
     [SerializeField] private float Speed = 5f;
 
