@@ -1,8 +1,7 @@
-using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class player : MonoBehaviour
+public class Player2 : MonoBehaviour
 {
 
     public string Nombre = "NONE";
@@ -22,8 +21,8 @@ public class player : MonoBehaviour
     {
         input.Enable();
 
-        input.Player.Move.performed += OnMove;
-        input.Player.Move.canceled += OnMove;
+        input.Player2.Move.performed += OnMove;
+        input.Player2.Move.canceled += OnMove;
 
     }
 
@@ -31,7 +30,7 @@ public class player : MonoBehaviour
     {
         moveInput = context.ReadValue<Vector2>();
 
-  
+
     }
     private void MovementMechanism(Vector2 input)
     {
@@ -48,9 +47,9 @@ public class player : MonoBehaviour
         {
             MovementMechanism(moveInput);
         }
-        if (Vida <= 0)
+        if (Vida <= 0) 
         {
-            Debug.LogWarning("HAS MUERTO PLAYER 1 " + Nombre);
+            Debug.LogWarning("HAS MUERTO PLAYER 2 "+Nombre);
         }
     }
     private void OnTriggerEnter2D(Collider2D collision)
@@ -59,7 +58,7 @@ public class player : MonoBehaviour
         {
             Vida -= 10;
             Destroy(collision.gameObject);
-            print("PLAYER 1  =   -10 <3");
+            print("PLAYER 2  =   -10 <3");
         }
     }
 }
