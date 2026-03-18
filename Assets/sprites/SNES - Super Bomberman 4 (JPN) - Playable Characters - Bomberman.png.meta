@@ -1,0 +1,4017 @@
+fileFormatVersion: 2
+guid: 336241b41a27f664b99a988c29ce613d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6904388202578480751
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_0
+  - first:
+      213: 7160007001507773666
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_1
+  - first:
+      213: -6349126351576143009
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_2
+  - first:
+      213: -6698542834222408377
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_3
+  - first:
+      213: -2368146099484779951
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_4
+  - first:
+      213: 7510776344488415485
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_5
+  - first:
+      213: -7059965676433855722
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_6
+  - first:
+      213: -2506388313550834006
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_7
+  - first:
+      213: 4975526557944109929
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_8
+  - first:
+      213: 5943163421674195756
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_9
+  - first:
+      213: -7208275903824790801
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_10
+  - first:
+      213: 9062454772086087903
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_11
+  - first:
+      213: 6273549952363065647
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_12
+  - first:
+      213: -4897471754365812869
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_13
+  - first:
+      213: -989393190005151303
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_14
+  - first:
+      213: 590101108732622535
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_15
+  - first:
+      213: 5762967621357649901
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_16
+  - first:
+      213: -8810153067447533273
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_17
+  - first:
+      213: -9204061409898272670
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_18
+  - first:
+      213: -3975508036411837
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_19
+  - first:
+      213: -4512193595367798685
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_20
+  - first:
+      213: -1693269228012356863
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_21
+  - first:
+      213: 115595425588632565
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_22
+  - first:
+      213: 8488178903045956275
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_23
+  - first:
+      213: -2322530293235319745
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_24
+  - first:
+      213: 7350483026563053403
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_25
+  - first:
+      213: -2748440259351485639
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_26
+  - first:
+      213: 7519852812011694656
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_27
+  - first:
+      213: -8018161804740467113
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_28
+  - first:
+      213: 3646748853457301783
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_29
+  - first:
+      213: -6305920748927333253
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_30
+  - first:
+      213: -1027968155243506939
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_31
+  - first:
+      213: -7317094300942350340
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_32
+  - first:
+      213: -6750087193708530262
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_33
+  - first:
+      213: -8518543437150604993
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_34
+  - first:
+      213: 6374700152688125652
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_35
+  - first:
+      213: -8453584159612472726
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_36
+  - first:
+      213: 3581870998863735343
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_37
+  - first:
+      213: -2888704196014573040
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_38
+  - first:
+      213: -4454907698344093953
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_39
+  - first:
+      213: 5620145962354824433
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_40
+  - first:
+      213: -3009187290865368762
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_41
+  - first:
+      213: 8203305491489526770
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_42
+  - first:
+      213: -2676411280000188111
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_43
+  - first:
+      213: 3325091760516905351
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_44
+  - first:
+      213: -2856746335960658334
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_45
+  - first:
+      213: -7145709928335912663
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_46
+  - first:
+      213: 7632599563119300199
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_47
+  - first:
+      213: 4159918113738156384
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_48
+  - first:
+      213: -5785515840528150649
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_49
+  - first:
+      213: -2034255350842297182
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_50
+  - first:
+      213: 3846663424482275846
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_51
+  - first:
+      213: 6768762774406818333
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_52
+  - first:
+      213: -9142867624223921347
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_53
+  - first:
+      213: 733266341074076130
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_54
+  - first:
+      213: -7643896542839082052
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_55
+  - first:
+      213: -7300283131457898083
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_56
+  - first:
+      213: -2302010225046393676
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_57
+  - first:
+      213: 1386678255211928604
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_58
+  - first:
+      213: 3964434438770057973
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_59
+  - first:
+      213: -6394911379423307952
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_60
+  - first:
+      213: -3228857476161031519
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_61
+  - first:
+      213: -2141678184107846212
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_62
+  - first:
+      213: -4691216279601634417
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_63
+  - first:
+      213: 1410903561468505074
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_64
+  - first:
+      213: 6206501013516529330
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_65
+  - first:
+      213: 5816164517130993013
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_66
+  - first:
+      213: -3976216364862050270
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_67
+  - first:
+      213: -6205609013236032170
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_68
+  - first:
+      213: -6612338166131086718
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_69
+  - first:
+      213: 3570936647077923853
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_70
+  - first:
+      213: -6090407779309228030
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_71
+  - first:
+      213: -4591596990916446260
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_72
+  - first:
+      213: 8173818813094656580
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_73
+  - first:
+      213: -4507801037106847976
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_74
+  - first:
+      213: 7114508853069047852
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_75
+  - first:
+      213: 3400429357328924287
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_76
+  - first:
+      213: 2613338930224291795
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_77
+  - first:
+      213: -1501620609530985897
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_78
+  - first:
+      213: 7499539262389177429
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_79
+  - first:
+      213: -2202652101278585282
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_80
+  - first:
+      213: -9110830544271769515
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_81
+  - first:
+      213: 4123103739997862421
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_82
+  - first:
+      213: 3163371236896351762
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_83
+  - first:
+      213: 3458744011441199070
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_84
+  - first:
+      213: -8341641066808055206
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_85
+  - first:
+      213: 7892267209136649026
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_86
+  - first:
+      213: -698552954839688529
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_87
+  - first:
+      213: 3172330811950666529
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_88
+  - first:
+      213: 2912320157393484096
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_89
+  - first:
+      213: -585209142641216588
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_90
+  - first:
+      213: 5180391608773378337
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_91
+  - first:
+      213: 1937462517602137176
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_92
+  - first:
+      213: 1619798775078565250
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_93
+  - first:
+      213: 7999422570159791293
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_94
+  - first:
+      213: 5114721325527420379
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_95
+  - first:
+      213: -5917120412158456688
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_96
+  - first:
+      213: 9061060520073827922
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_97
+  - first:
+      213: 558770037991253301
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_98
+  - first:
+      213: 7269527796550941250
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_99
+  - first:
+      213: 3976678820192054045
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_100
+  - first:
+      213: -7854375740967083887
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_101
+  - first:
+      213: 293599404161118552
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_102
+  - first:
+      213: 5626471425312116572
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_103
+  - first:
+      213: -8424681015299196150
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_104
+  - first:
+      213: -2184613026568043249
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_105
+  - first:
+      213: 3037591091661592837
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_106
+  - first:
+      213: 4673024039270085171
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_107
+  - first:
+      213: 1563946185220755708
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_108
+  - first:
+      213: -4845848059180009863
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_109
+  - first:
+      213: 4694400294051937800
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_110
+  - first:
+      213: -2069591873668577666
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_111
+  - first:
+      213: -6837942345519448556
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_112
+  - first:
+      213: 3378203440801519323
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_113
+  - first:
+      213: -8803571230028402542
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_114
+  - first:
+      213: -8776972623966739995
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_115
+  - first:
+      213: -1708820308397058542
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_116
+  - first:
+      213: 4609486514774664983
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_117
+  - first:
+      213: -4249861042562095371
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_118
+  - first:
+      213: 7417531875701077825
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_119
+  - first:
+      213: -8900648800092786097
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_120
+  - first:
+      213: -8964517867937118222
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_121
+  - first:
+      213: 5186508200837771751
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_122
+  - first:
+      213: -8015988367343726878
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_123
+  - first:
+      213: -8127067285786317088
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_124
+  - first:
+      213: -7412418337397822120
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_125
+  - first:
+      213: 7281309385858039742
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_126
+  - first:
+      213: -3002517063991547028
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_127
+  - first:
+      213: -9087410752574437298
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_128
+  - first:
+      213: 7441386580675717800
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_129
+  - first:
+      213: -4637157161592980025
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_130
+  - first:
+      213: 9170114972231982715
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_131
+  - first:
+      213: 8331972460568773141
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_132
+  - first:
+      213: -8823656334625472109
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_133
+  - first:
+      213: -7003932463613847827
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_134
+  - first:
+      213: 4631402006212315402
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_135
+  - first:
+      213: -3485400656031854195
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_136
+  - first:
+      213: 7451957971893390085
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_137
+  - first:
+      213: -8951369690850704483
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_138
+  - first:
+      213: -8288988410657706341
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_139
+  - first:
+      213: 1967926229332014118
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_140
+  - first:
+      213: -8566940000878066392
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_141
+  - first:
+      213: 4279392592052406357
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_142
+  - first:
+      213: 6060980452279398211
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_143
+  - first:
+      213: -4886062890353998394
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_144
+  - first:
+      213: 7114861872408630311
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_145
+  - first:
+      213: 4809044700885284350
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_146
+  - first:
+      213: -5947395887156228301
+    second: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_147
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 610
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e861e3d7051df50800000000000000
+      internalID: 6904388202578480751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 610
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec3e2abe647d5360800000000000000
+      internalID: 7160007001507773666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 610
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b6b3ce83f53e7a0800000000000000
+      internalID: -6349126351576143009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 616
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d5f6d58cef903a0800000000000000
+      internalID: -6698542834222408377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 616
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a9bf36ba7a22fd0800000000000000
+      internalID: -2368146099484779951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 618
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df093a0aa43ab3860800000000000000
+      internalID: 7510776344488415485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 616
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ba5b16f96f50e90800000000000000
+      internalID: -7059965676433855722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 578
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6bc95bb15873dd0800000000000000
+      internalID: -2506388313550834006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 578
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bd7c00b0f9c0540800000000000000
+      internalID: 4975526557944109929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 578
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b4cfec4ab5a7250800000000000000
+      internalID: 5943163421674195756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 583
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaf38da14f07fb90800000000000000
+      internalID: -7208275903824790801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 583
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd02c3ba99e44cd70800000000000000
+      internalID: 9062454772086087903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 546
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21f4476170201750800000000000000
+      internalID: 6273549952363065647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 546
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f3487236fa80cb0800000000000000
+      internalID: -4897471754365812869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 546
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b96d8eb228f442f0800000000000000
+      internalID: -989393190005151303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 550
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c67297f4d5703800800000000000000
+      internalID: 590101108732622535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 552
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defb913a48c2aff40800000000000000
+      internalID: 5762967621357649901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 550
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721c8fd967c0cb580800000000000000
+      internalID: -8810153067447533273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 552
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268e124b9ea944080800000000000000
+      internalID: -9204061409898272670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 514
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e10b7eb40e1fff0800000000000000
+      internalID: -3975508036411837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 514
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3684f46e4d77161c0800000000000000
+      internalID: -4512193595367798685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 514
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b3933cb9c4088e0800000000000000
+      internalID: -1693269228012356863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 517
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbded75d6daa9100800000000000000
+      internalID: 115595425588632565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 518
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2e4027db11cc570800000000000000
+      internalID: 8488178903045956275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 519
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cff9be007b4cfd0800000000000000
+      internalID: -2322530293235319745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 482
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5734dd3e59220660800000000000000
+      internalID: 7350483026563053403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 482
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933e8fe55249bd9d0800000000000000
+      internalID: -2748440259351485639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 482
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aed276a42eb5860800000000000000
+      internalID: 7519852812011694656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 482
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756e6d41254c9b090800000000000000
+      internalID: -8018161804740467113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 484
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711b26bc2cadb9230800000000000000
+      internalID: 3646748853457301783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 485
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ccb623d7edc78a0800000000000000
+      internalID: -6305920748927333253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_31
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 486
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5031c42c86cebb1f0800000000000000
+      internalID: -1027968155243506939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 450
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7cb4c3085747a90800000000000000
+      internalID: -7317094300942350340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 450
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5f618f57fd252a0800000000000000
+      internalID: -6750087193708530262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 450
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3137e880ed08c980800000000000000
+      internalID: -8518543437150604993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 450
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6aa96a30c777850800000000000000
+      internalID: 6374700152688125652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_36
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 452
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62fd6feef5deaa80800000000000000
+      internalID: -8453584159612472726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 453
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aeb8622bc55b130800000000000000
+      internalID: 3581870998863735343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01afe57b6d249e7d0800000000000000
+      internalID: -2888704196014573040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 416
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff61c0d2d0dfc22c0800000000000000
+      internalID: -4454907698344093953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_40
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 416
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f45108d9f4cefd40800000000000000
+      internalID: 5620145962354824433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 416
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64189513a183d36d0800000000000000
+      internalID: -3009187290865368762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 392
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f39e3ca1eef7d170800000000000000
+      internalID: 8203305491489526770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_43
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 420
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1318dbefe1a7bdad0800000000000000
+      internalID: -2676411280000188111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_44
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 421
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789303fc659152e20800000000000000
+      internalID: 3325091760516905351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 422
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e8aa7d75cca58d0800000000000000
+      internalID: -2856746335960658334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 386
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9215e850ea655dc90800000000000000
+      internalID: -7145709928335912663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 386
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e07880dd07ce960800000000000000
+      internalID: 7632599563119300199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 397
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0696318fb7ffab930800000000000000
+      internalID: 4159918113738156384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_49
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f8ceafef7b5bfa0800000000000000
+      internalID: -5785515840528150649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_50
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 383
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a47b9e498fd4c3e0800000000000000
+      internalID: -2034255350842297182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 383
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602f0ca0108126530800000000000000
+      internalID: 3846663424482275846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 386
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ae76181e97fed50800000000000000
+      internalID: 6768762774406818333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 390
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ba6b536520e1180800000000000000
+      internalID: -9142867624223921347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_54
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 392
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e188792ad51d2a00800000000000000
+      internalID: 733266341074076130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 354
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb37d38e79c6be590800000000000000
+      internalID: -7643896542839082052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_56
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 354
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99fca5ab2f20ba90800000000000000
+      internalID: -7300283131457898083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_57
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 353
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bceaca95ed9d00e0800000000000000
+      internalID: -2302010225046393676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_58
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 354
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c5aa3b6887e3310800000000000000
+      internalID: 1386678255211928604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_59
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 351
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2e63a1e10840730800000000000000
+      internalID: 3964434438770057973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_60
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 351
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057de5b6bf5b047a0800000000000000
+      internalID: -6394911379423307952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 322
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2be0f8b3bc033d0800000000000000
+      internalID: -3228857476161031519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_62
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 322
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb55c05e90b3742e0800000000000000
+      internalID: -2141678184107846212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_63
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 322
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83a0d916a375eeb0800000000000000
+      internalID: -4691216279601634417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 319
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbe9a95059849310800000000000000
+      internalID: 1410903561468505074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_65
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 319
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be21c0d9cbe12650800000000000000
+      internalID: 6206501013516529330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 290
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57df2de10da27b050800000000000000
+      internalID: 5816164517130993013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_67
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 290
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2207d467844a1d8c0800000000000000
+      internalID: -3976216364862050270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_68
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 290
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d9a1f2b7f31e9a0800000000000000
+      internalID: -6205609013236032170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_69
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 287
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28aaff8b8714c34a0800000000000000
+      internalID: -6612338166131086718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_70
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 287
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c018cf5f38e8130800000000000000
+      internalID: 3570936647077923853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 258
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2007ff0a4668a7ba0800000000000000
+      internalID: -6090407779309228030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_72
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 258
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc73ca43dde5740c0800000000000000
+      internalID: -4591596990916446260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 258
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a79ec57ec3f6170800000000000000
+      internalID: 8173818813094656580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_74
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 261
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fdb1117d21171c0800000000000000
+      internalID: -4507801037106847976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_75
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 261
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c286d8a8b10dbb260800000000000000
+      internalID: 7114508853069047852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_76
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 226
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e7667fb70c03f20800000000000000
+      internalID: 3400429357328924287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_77
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 226
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfd7b539e1744420800000000000000
+      internalID: 2613338930224291795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_78
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 226
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7520085f20c292be0800000000000000
+      internalID: -1501620609530985897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 194
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c4dc19937b31860800000000000000
+      internalID: 7499539262389177429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_80
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 194
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ea583859b9e61e0800000000000000
+      internalID: -2202652101278585282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 194
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55007e724e3df8180800000000000000
+      internalID: -9110830544271769515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 194
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a38a2a105383930800000000000000
+      internalID: 4123103739997862421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_83
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21625e3316d86eb20800000000000000
+      internalID: 3163371236896351762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 165
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed756fa6a5defff20800000000000000
+      internalID: 3458744011441199070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_85
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 164
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a681945a98c3c80800000000000000
+      internalID: -8341641066808055206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_86
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 164
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243bd013637f68d60800000000000000
+      internalID: 7892267209136649026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_87
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 164
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa1bf5e9cd3e46f0800000000000000
+      internalID: -698552954839688529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1239854d012660c20800000000000000
+      internalID: 3172330811950666529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_89
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 130
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049f5a5c0c3aa6820800000000000000
+      internalID: 2912320157393484096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_90
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 130
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b33f85a26be0e7f0800000000000000
+      internalID: -585209142641216588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_91
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 128
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1210a56a8b274e740800000000000000
+      internalID: 5180391608773378337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_92
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 149
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8543f4705ef33ea10800000000000000
+      internalID: 1937462517602137176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_93
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 154
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285bb24676eaa7610800000000000000
+      internalID: 1619798775078565250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_94
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcdd9ed178a30f60800000000000000
+      internalID: 7999422570159791293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_95
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 140
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd4d2552f32bf640800000000000000
+      internalID: 5114721325527420379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_96
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c051cd55a22eda0800000000000000
+      internalID: -5917120412158456688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_97
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 136
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2561153198a5fbd70800000000000000
+      internalID: 9061060520073827922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_98
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535a999936621c700800000000000000
+      internalID: 558770037991253301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_99
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a3f3ee30d82e460800000000000000
+      internalID: 7269527796550941250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_100
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 96
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bed5f4150003730800000000000000
+      internalID: 3976678820192054045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_101
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190263bb0e6aff290800000000000000
+      internalID: -7854375740967083887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_102
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 96
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8513a4f3a13131400800000000000000
+      internalID: 293599404161118552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_103
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f4d9473fd351e40800000000000000
+      internalID: 5626471425312116572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_104
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 66
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b3d11a045851b80800000000000000
+      internalID: -8424681015299196150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_105
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 66
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0588b3e602bea1e0800000000000000
+      internalID: -2184613026568043249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_106
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 66
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50951670101b72a20800000000000000
+      internalID: 3037591091661592837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_107
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 83
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332fd8fda9ae9d040800000000000000
+      internalID: 4673024039270085171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_108
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 81
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf019e1f4c044b510800000000000000
+      internalID: 1563946185220755708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_109
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 81
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9763f055dd610ccb0800000000000000
+      internalID: -4845848059180009863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_110
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 83
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e7478023cd52140800000000000000
+      internalID: 4694400294051937800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_111
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 83
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7603f3f7255743e0800000000000000
+      internalID: -2069591873668577666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_112
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 83
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e36bc6aafba11a0800000000000000
+      internalID: -6837942345519448556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_113
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 81
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd61af3812ac1ee20800000000000000
+      internalID: 3378203440801519323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_114
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 83
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290fe4f0c9e63d580800000000000000
+      internalID: -8803571230028402542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_115
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 83
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e16221a6ede13680800000000000000
+      internalID: -8776972623966739995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_116
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 83
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2161505bbfc0948e0800000000000000
+      internalID: -1708820308397058542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_117
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 83
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717e816209f28ff30800000000000000
+      internalID: 4609486514774664983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_118
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 83
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6a05506e57505c0800000000000000
+      internalID: -4249861042562095371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_119
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 83
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147bc41f0fd50f660800000000000000
+      internalID: 7417531875701077825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_120
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 83
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4276ffe21b8a7480800000000000000
+      internalID: -8900648800092786097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_121
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 83
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f747f2ce72a79380800000000000000
+      internalID: -8964517867937118222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_122
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 83
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1f597babd2af740800000000000000
+      internalID: 5186508200837771751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_123
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 83
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee40d8ec0d71c090800000000000000
+      internalID: -8015988367343726878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_124
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee2205dc5bd63f80800000000000000
+      internalID: -8127067285786317088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_125
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 83
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dafc87bccc12990800000000000000
+      internalID: -7412418337397822120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_126
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 67
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf39c3fe486c0560800000000000000
+      internalID: 7281309385858039742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_127
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 67
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b2cb863aae456d0800000000000000
+      internalID: -3002517063991547028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_128
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 67
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e484cb4511803e180800000000000000
+      internalID: -9087410752574437298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_129
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 65
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aae8814bad154760800000000000000
+      internalID: 7441386580675717800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_130
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 67
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd7797512285afb0800000000000000
+      internalID: -4637157161592980025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_131
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 65
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ed06d5bfac24f70800000000000000
+      internalID: 9170114972231982715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_132
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 67
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5120a86eecc11a370800000000000000
+      internalID: 8331972460568773141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_133
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 67
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391068a30531c8580800000000000000
+      internalID: -8823656334625472109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_134
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 67
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6587368880dce90800000000000000
+      internalID: -7003932463613847827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_135
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 67
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a090150269b064040800000000000000
+      internalID: 4631402006212315402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_136
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 67
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81de4dd19e51afc0800000000000000
+      internalID: -3485400656031854195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_137
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 67
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b88d31b4caa6760800000000000000
+      internalID: 7451957971893390085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_138
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 34
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9345ab41b856c380800000000000000
+      internalID: -8951369690850704483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_139
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eea6b15f897fc80800000000000000
+      internalID: -8288988410657706341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_140
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 34
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6243283aa7a7f4b10800000000000000
+      internalID: 1967926229332014118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_141
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 34
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8250493757d1c1980800000000000000
+      internalID: -8566940000878066392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_142
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 34
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558c8b7a3e4736b30800000000000000
+      internalID: 4279392592052406357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_143
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f23b0eb9dec1450800000000000000
+      internalID: 6060980452279398211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_144
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c54b3e40b7313cb0800000000000000
+      internalID: -4886062890353998394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_145
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72413e24d211db260800000000000000
+      internalID: 7114861872408630311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_146
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 12
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5fd311da82db240800000000000000
+      internalID: 4809044700885284350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_147
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 12
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f0f6783fa967da0800000000000000
+      internalID: -5947395887156228301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_0: 6904388202578480751
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_1: 7160007001507773666
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_10: -7208275903824790801
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_100: 3976678820192054045
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_101: -7854375740967083887
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_102: 293599404161118552
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_103: 5626471425312116572
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_104: -8424681015299196150
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_105: -2184613026568043249
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_106: 3037591091661592837
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_107: 4673024039270085171
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_108: 1563946185220755708
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_109: -4845848059180009863
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_11: 9062454772086087903
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_110: 4694400294051937800
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_111: -2069591873668577666
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_112: -6837942345519448556
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_113: 3378203440801519323
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_114: -8803571230028402542
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_115: -8776972623966739995
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_116: -1708820308397058542
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_117: 4609486514774664983
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_118: -4249861042562095371
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_119: 7417531875701077825
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_12: 6273549952363065647
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_120: -8900648800092786097
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_121: -8964517867937118222
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_122: 5186508200837771751
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_123: -8015988367343726878
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_124: -8127067285786317088
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_125: -7412418337397822120
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_126: 7281309385858039742
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_127: -3002517063991547028
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_128: -9087410752574437298
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_129: 7441386580675717800
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_13: -4897471754365812869
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_130: -4637157161592980025
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_131: 9170114972231982715
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_132: 8331972460568773141
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_133: -8823656334625472109
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_134: -7003932463613847827
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_135: 4631402006212315402
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_136: -3485400656031854195
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_137: 7451957971893390085
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_138: -8951369690850704483
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_139: -8288988410657706341
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_14: -989393190005151303
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_140: 1967926229332014118
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_141: -8566940000878066392
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_142: 4279392592052406357
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_143: 6060980452279398211
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_144: -4886062890353998394
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_145: 7114861872408630311
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_146: 4809044700885284350
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_147: -5947395887156228301
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_15: 590101108732622535
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_16: 5762967621357649901
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_17: -8810153067447533273
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_18: -9204061409898272670
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_19: -3975508036411837
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_2: -6349126351576143009
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_20: -4512193595367798685
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_21: -1693269228012356863
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_22: 115595425588632565
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_23: 8488178903045956275
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_24: -2322530293235319745
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_25: 7350483026563053403
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_26: -2748440259351485639
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_27: 7519852812011694656
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_28: -8018161804740467113
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_29: 3646748853457301783
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_3: -6698542834222408377
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_30: -6305920748927333253
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_31: -1027968155243506939
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_32: -7317094300942350340
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_33: -6750087193708530262
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_34: -8518543437150604993
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_35: 6374700152688125652
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_36: -8453584159612472726
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_37: 3581870998863735343
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_38: -2888704196014573040
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_39: -4454907698344093953
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_4: -2368146099484779951
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_40: 5620145962354824433
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_41: -3009187290865368762
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_42: 8203305491489526770
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_43: -2676411280000188111
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_44: 3325091760516905351
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_45: -2856746335960658334
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_46: -7145709928335912663
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_47: 7632599563119300199
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_48: 4159918113738156384
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_49: -5785515840528150649
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_5: 7510776344488415485
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_50: -2034255350842297182
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_51: 3846663424482275846
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_52: 6768762774406818333
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_53: -9142867624223921347
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_54: 733266341074076130
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_55: -7643896542839082052
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_56: -7300283131457898083
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_57: -2302010225046393676
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_58: 1386678255211928604
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_59: 3964434438770057973
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_6: -7059965676433855722
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_60: -6394911379423307952
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_61: -3228857476161031519
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_62: -2141678184107846212
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_63: -4691216279601634417
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_64: 1410903561468505074
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_65: 6206501013516529330
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_66: 5816164517130993013
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_67: -3976216364862050270
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_68: -6205609013236032170
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_69: -6612338166131086718
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_7: -2506388313550834006
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_70: 3570936647077923853
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_71: -6090407779309228030
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_72: -4591596990916446260
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_73: 8173818813094656580
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_74: -4507801037106847976
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_75: 7114508853069047852
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_76: 3400429357328924287
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_77: 2613338930224291795
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_78: -1501620609530985897
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_79: 7499539262389177429
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_8: 4975526557944109929
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_80: -2202652101278585282
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_81: -9110830544271769515
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_82: 4123103739997862421
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_83: 3163371236896351762
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_84: 3458744011441199070
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_85: -8341641066808055206
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_86: 7892267209136649026
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_87: -698552954839688529
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_88: 3172330811950666529
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_89: 2912320157393484096
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_9: 5943163421674195756
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_90: -585209142641216588
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_91: 5180391608773378337
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_92: 1937462517602137176
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_93: 1619798775078565250
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_94: 7999422570159791293
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_95: 5114721325527420379
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_96: -5917120412158456688
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_97: 9061060520073827922
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_98: 558770037991253301
+      SNES - Super Bomberman 4 (JPN) - Playable Characters - Bomberman_99: 7269527796550941250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
